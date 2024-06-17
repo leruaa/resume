@@ -55,3 +55,4 @@ My name is Aurélien, I live at Lyon in France and I work as a Full stack Softwa
 
 ## Education
 
+2006: Computer Science Master (Automatic Multimedia Information Processing)
