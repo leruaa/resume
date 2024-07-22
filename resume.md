@@ -26,7 +26,7 @@ My name is Aurélien, I live at Lyon in France and I work as a Full stack Softwa
 
 ## Open Source
 
-* [alloy-flashbots]
+* [alloy-mev]
   * Rust libary to send transaction bundles via Ethereun relays
   * Integrated with [Alloy]
 * [alloy-erc20]
@@ -38,7 +38,7 @@ My name is Aurélien, I live at Lyon in France and I work as a Full stack Softwa
 * [beaxplorer]
   * Ethereum Beacon chain explorer written in Rust and relying on [Lighthouse] network stack
 
-[alloy-flashbots]: https://github.com/leruaa/alloy-flashbots
+[alloy-mev]: https://github.com/leruaa/alloy-mev
 [alloy-erc20]: https://github.com/leruaa/alloy-erc20
 [stapifaction]: https://github.com/stapifaction/stapifaction
 [beaxplorer]: https://github.com/leruaa/beaxplorer
